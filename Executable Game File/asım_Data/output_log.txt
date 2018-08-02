@@ -1,0 +1,127 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     1792 MB
+    Driver:   9.18.13.2702
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Okul\3.Sınıf 2.Dönem\Gaming\Oyun\Executable Game File\asım_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Okul\3.Sınıf 2.Dönem\Gaming\Oyun\Executable Game File\asım_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Okul\3.Sınıf 2.Dönem\Gaming\Oyun\Executable Game File\asım_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Okul\3.Sınıf 2.Dönem\Gaming\Oyun\Executable Game File\asım_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Okul\3.Sınıf 2.Dönem\Gaming\Oyun\Executable Game File\asım_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Okul\3.Sınıf 2.Dönem\Gaming\Oyun\Executable Game File\asım_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Okul\3.Sınıf 2.Dönem\Gaming\Oyun\Executable Game File\asım_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Okul\3.Sınıf 2.Dönem\Gaming\Oyun\Executable Game File\asım_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Okul\3.Sınıf 2.Dönem\Gaming\Oyun\Executable Game File\asım_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Okul\3.Sınıf 2.Dönem\Gaming\Oyun\Executable Game File\asım_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.192 seconds
+Platform assembly: C:\Okul\3.Sınıf 2.Dönem\Gaming\Oyun\Executable Game File\asım_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Okul\3.Sınıf 2.Dönem\Gaming\Oyun\Executable Game File\asım_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 59Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.655246 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 137c -> priority: 1 
+  Thread -> id: f5c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.230729 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 598.
+Total: 0.312574 ms (FindLiveObjects: 0.038721 ms CreateObjectMapping: 0.025192 ms MarkObjects: 0.228132 ms  DeleteObjects: 0.009330 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.467462 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 599.
+Total: 0.288781 ms (FindLiveObjects: 0.037788 ms CreateObjectMapping: 0.025192 ms MarkObjects: 0.218335 ms  DeleteObjects: 0.006531 ms)
+
